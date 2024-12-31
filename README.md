@@ -1,0 +1,2 @@
+# webseti-sederhana
+web
